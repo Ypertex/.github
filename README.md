@@ -35,4 +35,4 @@ These brand assets may not be used, reproduced, or distributed without explicit 
 
 ## Copyright
 
-© 2020-2024 Michael Schmidle. The Ypertex™ name and associated brand elements are trademarks of Michael Schmidle.
+© 2020-2025 Michael Schmidle. The Ypertex™ name and associated brand elements are trademarks of Michael Schmidle.
