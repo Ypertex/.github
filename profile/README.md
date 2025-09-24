@@ -2,7 +2,7 @@
 
 # Fine hypertext.
 
-**Ypertex** publishes thoughtful explorations at the intersection of technology, strategy, and leadership.
+**Ypertex**™ publishes thoughtful explorations at the intersection of technology, strategy, and leadership.
 
 We believe in the power of well-crafted ideas—where clarity of thought meets precision of expression. Our content navigates the complexities of emerging technologies, strategic thinking, and the evolving nature of digital leadership, always with a forward-looking perspective.
 
