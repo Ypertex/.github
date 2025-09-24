@@ -1,6 +1,6 @@
 ![Ypertex](https://raw.githubusercontent.com/Ypertex/.github/main/assets/Ypertex-logo-2020-03-protected.svg)
 
-# Fine hypertext.
+# Fine Hypertext
 
 **Ypertex**™ publishes thoughtful explorations at the intersection of technology, strategy, and leadership.
 
