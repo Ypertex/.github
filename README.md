@@ -2,7 +2,7 @@
 
 # Ypertex
 
-Fine hypertext publishing.
+Fine hypertext.
 
 ## About
 
