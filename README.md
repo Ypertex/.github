@@ -25,7 +25,6 @@ Two versions are provided:
 ### Brand Guidelines
 
 - Primary color: `#00AAFF` (cyan blue)
-- The logogram features Y and X characters in an interlocking design with a shadow element
 - Maintain clear space around all brand elements when used
 
 ## License
